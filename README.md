@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan (Joe)
 - 👀 I’m studying for pursuing PhD in electrical eng., Taiwan Tech, Taipei City
-- 🌱 I’m currently paying attention to deep transfer learning, deep domain adaptation, deep similarity learning and emperical blockchain (i.e., ERC-based solidity development & contract deployment)
+- 🌱 I’m currently paying attention to studying deep transfer learning, deep domain adaptation, deep similarity learning and emperical blockchain (Namely, ERC-based solidity development & contract deployment)
 - 💞️ I’m looking to collaborate on who is interesting in the similar study area
 - 📫 How to reach me : @linkedin https://www.linkedin.com/in/jirayu-petchhan-3b4544195/
 
