@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan, alias as Joe
+- 👋 Hi, I’m Jonathan, shortly, Joe
 - 👀 I’m studying for pursuing PhD in electrical eng., Taiwan Tech, Taipei City
 - 🌱 I’m currently paying attention to studying deep transfer learning, deep domain adaptation, deep similarity learning and practical blockchain (Namely, ERC-based solidity development & contract deployment)
 - 💞️ I’m looking to collaborate on who is interesting in the similar study area or any further beneficial study
