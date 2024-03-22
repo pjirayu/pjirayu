@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jonathan, shortly, Joe
-- 👀 I’m pursuing PhD in Electrical Eng., Taiwan Tech, Taipei City
-- 🌱 I’m currently paying attention to studying deep transfer learning, deep domain adaptation, deep similarity learning, deep model compression, and practical blockchain like ERC-based solidity development & contract deployment
-- 💞️ I’m looking to collaborate on who is interesting in the similar study area or any further beneficial study
-- 📫 Reach me straight thru d10907801@mail.ntust.edu.tw
+- 👨🏽‍🎓 Received DPhil in Electrical Engineering with College of Electrical Engineering and Computer Science (EECS), Taiwan Tech (NTUST), Taipei City.
+- 👨🏽‍💻 Now, doing a independent postdoctoral fellow with Intelligent Systems and Control laboratory.
+- 🌱 Interests studying related to deep transfer learning, deep model compression, edge computing, artificial intelligence of things (AIoT), consumer technology, and industry applications.
+- 💞️ looking to collaborate on who is interesting in the similar study area or any further beneficial study.
+- 📫 Reachinh me straight thru 1st: petchhan.jirayu@gmail.com, 2nd: d10907801@mail.ntust.edu.tw.
 
 <!---
 pjirayu/pjirayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
