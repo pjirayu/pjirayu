@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jonathan, shortly, Joe
 - 👨🏽‍🎓 Received DPhil in Electrical Engineering with College of Electrical Engineering and Computer Science (EECS), Taiwan Tech (NTUST), Taipei City.
-- 👨🏽‍💻 Now, doing a independent postdoctoral fellow with Intelligent Systems and Control laboratory.
+- 👨🏽‍💻 I am currently a lecturer with the department of Computer Engineering, School of Engineering, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand. 
 - 🌱 Interests studying related to deep transfer learning, deep model compression, edge computing, artificial intelligence of things (AIoT), consumer technology, and industry applications.
 - 💞️ looking to collaborate on who is interesting in the similar study area or any further beneficial study.
-- 📫 Reachinh me straight thru 1st: petchhan.jirayu@gmail.com, 2nd: d10907801@mail.ntust.edu.tw.
+- 📫 Reaching me straight thru jirayu.pe@kmitl.ac.th, petchhan.jirayu@gmail.com, d10907801@mail.ntust.edu.tw.
 
 <!---
 pjirayu/pjirayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
